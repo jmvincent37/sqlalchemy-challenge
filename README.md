@@ -44,5 +44,5 @@ Create a Crowdfunding Database (25 points)
 ### Additional Support and Resources Used:
 Tutor Sesion\
 https://stackoverflow.com \
-https://www.askpython.com \
 https://www.askpython.com 
+
